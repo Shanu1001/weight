@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "787215738090",
+    "firebase_url": "https://weight-tracker-982db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "weight-tracker-982db",
+    "storage_bucket": "weight-tracker-982db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787215738090:android:eef7e3754abace2ada2393",
+        "android_client_info": {
+          "package_name": "com.example.weight_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787215738090-cb8osj9u3vvl068132dl9vrdj2ppo4hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weight_tracker",
+            "certificate_hash": "99eca92ff398764018692ab36c4e29a692e308a1"
+          }
+        },
+        {
+          "client_id": "787215738090-t65pfbbc4vklh6g178tojpt90anfujf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpsj8e_GCBEcbrL-KQrM6s4rzeK6P4kic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787215738090-t65pfbbc4vklh6g178tojpt90anfujf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+}
